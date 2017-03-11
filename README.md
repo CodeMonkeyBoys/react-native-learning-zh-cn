@@ -7,7 +7,7 @@
 
 ## ES6
 
-[[阮一峰]ECMAScript 6 入门](http://shgit/yy42/configuration-viewer)
+[[阮一峰]ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 
 ## React 
 
