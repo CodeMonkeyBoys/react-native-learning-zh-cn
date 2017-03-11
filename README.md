@@ -27,6 +27,8 @@
 
 [React Native中文学习导航](https://github.com/reactnativecn/react-native-guide)
 
+[React Navigation](https://reactnavigation.org/)
+
 [React Native 热加载（Hot Reload）原理简介](http://www.jianshu.com/p/1fa6e9c0799f)
 
 [Pepperoni-一个不错的用做学习的项目](https://github.com/futurice/pepperoni-app-kit)
