@@ -5,6 +5,10 @@
 
 **如果你想帮助我一起学习和增加资料,请发起Pull request.**
 
+## ES6
+
+[[阮一峰]ECMAScript 6 入门](http://shgit/yy42/configuration-viewer)
+
 ## React 
 
 [React](https://github.com/facebook/react)
