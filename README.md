@@ -59,6 +59,8 @@
 
 [[阮一峰]Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
 
+[讓你的Action能作更多 — Redux-Thunk](https://medium.com/@WendellLiu/%E9%80%81%E8%AE%93%E4%BD%A0%E7%9A%84action%E8%83%BD%E4%BD%9C%E6%9B%B4%E5%A4%9A-redux-thunk-c07bc5488e48#.91keie5yi)
+
 [react-native-counter-ios-android React Native结合Redux使用的经典小Demo](https://github.com/chentsulin/react-native-counter-ios-android)
 
 [React Native+Redux异步时如何正确的使用Fetch](http://stackoverflow.com/questions/39813984/how-to-fetch-data-through-api-in-redux)
